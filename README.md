@@ -1,4 +1,4 @@
 # reuters
-reuters.npz 是路透社数据集
+reuters.npz (This file is a dataset of reuters news)
 
-reuterspy 是基于Keras的新闻多分类代码，可直接运行
+reuters.py (This file is a code of reuters news multi-category based on Keras)
